@@ -1,10 +1,42 @@
 {
 "posts": [
     {
-      "id": 1,
-      "title": "hello"
+        "jobId": 1234,
+        "companyName": "JP Morgan",
+        "role": "Assistant",
+        "jobDescription": "Job you will LOve to work",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "salaryScale": "10,000-20,000"
+    },
+    {
+        "jobId": 12345,
+        "companyName": "JP Morgan",
+        "role": "Assistant",
+        "jobDescription": "Job you will LOve to work",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "salaryScale": "15,000-20,000"
+    },
+    {
+        "jobId": 12346,
+        "companyName": "JP Morgan",
+        "role": "Assistant",
+        "jobDescription": "Job you will LOve to work",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "salaryScale": "18,000-24,000"
+    },
+    {
+        "jobId": 12347,
+        "companyName": "JP Morgan",
+        "role": "Assistant",
+        "jobDescription": "Job you will LOve to work",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "salaryScale": "12,000-20,000"
     }
-  ],
+],
   "profile": {
     "name": "typicode"
   }
