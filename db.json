@@ -35,6 +35,15 @@
         "city": "Bangalore",
         "state": "Karnataka",
         "salaryScale": "12,000-20,000"
+    },
+    {
+        "jobId": 1234,
+        "companyName": "JP Morgan",
+        "role": "Assistant",
+        "jobDescription": "Job you will LOve to work",
+        "city": "Baroda",
+        "state": "Maharashtra",
+        "salaryScale": "20,000-25,000"
     }
 ],
   "profile": {
